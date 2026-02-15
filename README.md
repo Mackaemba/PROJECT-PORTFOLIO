@@ -79,7 +79,7 @@ git push
 - Shows Linear Regression Models      - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/07_linear_regression_results.png)
 - Shows Decision Tree Models          - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/09_decision_tree_results.png)
 - Shows Random forest Models          - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
-- Shows Gradient Boostings            - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
+- Shows Gradient Boostings            - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/12_gradient_boosting_results.png)
 - Shows the R² scores for each model  - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 - Shows RMSE                          - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
