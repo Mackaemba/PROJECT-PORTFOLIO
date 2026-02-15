@@ -90,7 +90,7 @@ git push
 - 📊 [View Analysis](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/b8c7c869b512fadb67c7fadffc6f44cbb4e4cdb5/20_best_model_deep_dive.png)
 
 ### 5. Project handwriting recognition
-- Radar/spider chart comparing KNN vs. Neural Network across 5 dimensions
+- Radar/spider chart comparing KNN vs. Neural Network across 5 dimensions.
 - Visualizes trade-off between accuracy and interpretability.
 - 📊 [VIEW ANALYSIS](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/7eb9e4dc78234a87700d17b0c5568ca32afa959b/13_learning_curves.png)
 
