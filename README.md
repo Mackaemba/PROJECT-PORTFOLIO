@@ -25,12 +25,14 @@ predictive-analytics-portfolio/
 
 # Project 1: Vehicle Fuel Efficiency Prediction
 
-## Overview
+### Overview
 - Predictive model to identify fuel-efficient vehicle characteristics...
 - Predictive model to identify personal loan approval prediction
 - Predictive model to identify Magazine Subscription Behavior Analysis
-- Predictive model to identify 
 - Predictive model to identify
+- Predictive model to identify
+
+  
 
 ## Projects
 
