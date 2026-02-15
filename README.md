@@ -90,7 +90,7 @@ git push
 
 ### project5-handwriting-recognition
 - 📄 [Final Report (PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/ad2ad064cb1c40af8ee45ae715fa707feba595ca/Report%20on%20redicting%20Early%20Motor%20Skill%20Challenges%20Through%20Handwriting%20Recognition.pdf)
-- 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/f9ba968e5080f950cbbfdb8dd8f326e1d0e05a18/Letters.ipynb)
+- 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/2fd574170b8d097b4f1b710f6c84aef6523117fe/Letters.ipynb)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
 
