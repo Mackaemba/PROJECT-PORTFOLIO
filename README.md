@@ -89,7 +89,7 @@ git push
 - Visualizes trade-off between accuracy and interpretability
 
 ### project5-handwriting-recognition
-- 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
+- 📄 [Final Report (PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/ad2ad064cb1c40af8ee45ae715fa707feba595ca/Report%20on%20redicting%20Early%20Motor%20Skill%20Challenges%20Through%20Handwriting%20Recognition.pdf)
 - 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
