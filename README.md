@@ -14,6 +14,20 @@ predictive-analytics-portfolio/
 │   ├── code.ipynb
 │   ├── report.pdf
 │   └── visualizations/
+Desktop/
+   └── GitHub_Portfolio/
+       ├── portfolio.html (rename to index.html)
+       ├── Nashville/
+       │   ├── nashville_housing_analysis.py
+       │   ├── Nashville_Housing_Report.pdf
+       │   └── visualizations/ (20 PNG files)
+       └── Letters/
+           ├── letter_recognition_analysis.py
+           ├── Handwriting_Recognition_Report.pdf
+           └── visualizations/ (18 PNG files)
+
+
+
 ├── project4-nashville-real-estate/
 │   ├── code.ipynb
 │   ├── report.pdf
