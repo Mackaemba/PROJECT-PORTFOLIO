@@ -74,4 +74,23 @@ git push
 - 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
+### 4. Personal Loan Approval Prediction
+- Logistic Regression classification model
+- Accuracy: 98.73%, ROC-AUC: 0.9924
+- Business use case: automated loan pre-screening
 
+- ### Personal Loan Approval Prediction
+- 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
+- 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
+- 📊 [Visualizations](magazine-subscription-analysis/visuals/)
+
+
+### 5. Magazine Subscription Behavior Analysis
+- Logistic Regression vs. SVM comparison
+- Emphasis on recall and interpretability
+- Marketing targeting optimization
+
+### Magazine Subscription Behavior Analysis
+- 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
+- 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
+- 📊 [Visualizations](magazine-subscription-analysis/visuals/)
