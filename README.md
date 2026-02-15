@@ -30,7 +30,7 @@ predictive-analytics-portfolio/
 - Predictive model to identify personal loan approval prediction
 - Predictive model to identify Magazine Subscription Behavior Analysis
 - Predictive model to Project handwriting recognition
-- Predictive model to Project handwriting recognition
+- Predictive model to Project handwriting recognition,
 
   
 
