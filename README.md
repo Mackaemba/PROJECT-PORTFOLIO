@@ -77,7 +77,7 @@ git push
 ### 4. project4-nashville-real-estate
 - Grouped bar chart comparing 4 models (Linear Regression, Decision Tree, Random Forest, Gradient Boosting)
 - Shows Linear Regression Models      - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/07_linear_regression_results.png)
-- Shows Decision Tree Models          - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
+- Shows Decision Tree Models          - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/09_decision_tree_results.png)
 - Shows Random forest Models          - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 - Shows Gradient Boostings            - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 - Shows the R² scores for each model  - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
