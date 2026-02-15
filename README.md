@@ -81,7 +81,7 @@ git push
 
 - ### project4-nashville-real-estate
 - 📄 [Final Report (PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/13ac2a548afc684d8febfa7e74188922189e3851/Report%20on%20Predictive%20Modeling%20for%20Nashville%20Real%20Estate%20Investment.pdf)
-- 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
+- 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/f9ba968e5080f950cbbfdb8dd8f326e1d0e05a18/Nasville_Project7.2.ipynb)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
 ### 5. project5-handwriting-recognition
