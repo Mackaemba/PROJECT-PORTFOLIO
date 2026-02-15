@@ -23,20 +23,17 @@ predictive-analytics-portfolio/
     ├── report.pdf
     └── visualizations/
 
-    <div class="download-section">
-    <h4>Project Resources</h4>
-    
-    <!-- Link to PDF on GitHub -->
-    <a href="https://github.com/Mackaemba/predictive-analytics-portfolio/blob/main/project1-fuel-efficiency/Vehicle_Fuel_Efficiency_Report.pdf" 
-       class="download-btn" 
-       target="_blank">📄 Full Report (PDF)</a>
-    
-    <!-- Link to code on GitHub -->
-    <a href="https://github.com/Mackaemba/predictive-analytics-portfolio/blob/main/project1-fuel-efficiency/fuel_efficiency_analysis.ipynb" 
-       class="download-btn" 
-       target="_blank">💻 View Code (GitHub)</a>
-    
-    <!-- Optional: Link to live notebook viewer -->
-    <a href="https://nbviewer.org/github/Mackaemba/predictive-analytics-portfolio/blob/main/project1-fuel-efficiency/fuel_efficiency_analysis.ipynb" 
-       class="download-btn" 
-       target="_blank">🔍 Interactive Notebook</a>
+   # Project 1: Vehicle Fuel Efficiency Prediction
+
+## Overview
+Predictive model to identify fuel-efficient vehicle characteristics...
+
+## Files
+- `code.ipynb` - Full analysis notebook
+- `report.pdf` - Executive summary
+- `visualizations/` - Charts and graphs
+
+## Key Results
+- R² Score: 0.82
+- RMSE: 3.4 MPG
+- 15-20% efficiency improvement potential
