@@ -77,7 +77,7 @@ git push
 ### 4. project4-nashville-real-estate
 - Grouped bar chart comparing 4 models (Linear Regression, Decision Tree, Random Forest, Gradient Boosting)
 - Shows the R² scores for each model
-- Shows RMSE
+- Shows RMSE - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
 - ### project4-nashville-real-estate
 - 📄 [Final Report (PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/13ac2a548afc684d8febfa7e74188922189e3851/Report%20on%20Predictive%20Modeling%20for%20Nashville%20Real%20Estate%20Investment.pdf)
