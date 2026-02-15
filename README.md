@@ -61,7 +61,7 @@ git push
 ### Personal Loan Approval Prediction,
 - 📄 [Final Report (PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/Predictive%20Analysis%20of%20Personal%20Loan%20Approval%20Using%20Logistic%20Regression.pdf)
 - 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/82a49e0837b2c53e58f44fc32fddb6e54569e962/Bank.ipynb)
-- 📊 [Visualizations](magazine-subscription-analysis/visuals/)
+- 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/772e709cc40b0b8968911b3b9cd481f7f54fea03/eda_visualizations.png)
 
 
 ## 3. Magazine Subscription Behavior Analysis
