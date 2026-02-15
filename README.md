@@ -86,7 +86,7 @@ git push
 
 - ### project4-nashville-real-estate
 - 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/f9ba968e5080f950cbbfdb8dd8f326e1d0e05a18/Nasville_Project7.2.ipynb)
-- Why Gradient Boostings models recommended Analysis?
+- Why Gradient Boostings models recommended Analysis ?
 - 📊 [View Analysis](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/b8c7c869b512fadb67c7fadffc6f44cbb4e4cdb5/20_best_model_deep_dive.png)
 
 ### 5. project5-handwriting-recognition
