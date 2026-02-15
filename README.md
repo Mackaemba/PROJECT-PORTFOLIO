@@ -97,9 +97,3 @@ git push
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
 
-
-Project 5: Handwriting Recognition
-
-Radar/spider chart comparing KNN vs. Neural Network across 5 dimensions
-Visualizes trade-off between accuracy and interpretability
-
