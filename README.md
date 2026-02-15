@@ -75,9 +75,9 @@ git push
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
 ### 4. project4-nashville-real-estate
-- Logistic Regression classification model
-- Accuracy: 98.73%, ROC-AUC: 0.9924
-- Business use case: automated loan pre-screening
+- Grouped bar chart comparing 4 models (Linear Regression, Decision Tree, Random Forest, Gradient Boosting)
+- Shows the R² scores for each model
+- Shows RMSE
 
 - ### project4-nashville-real-estate
 - 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
@@ -86,11 +86,20 @@ git push
 
 
 ### 5. project5-handwriting-recognition
-- Logistic Regression vs. SVM comparison
-- Emphasis on recall and interpretability
-- Marketing targeting optimization
+- 
+- Radar/spider chart comparing KNN vs. Neural Network across 5 dimensions
+- Visualizes trade-off between accuracy and interpretability
+
 
 ### project5-handwriting-recognition
 - 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
 - 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
+
+
+
+Project 5: Handwriting Recognition
+
+Radar/spider chart comparing KNN vs. Neural Network across 5 dimensions
+Visualizes trade-off between accuracy and interpretability
+
