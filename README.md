@@ -82,7 +82,7 @@ git push
 - Shows Gradient Boostings            - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/12_gradient_boosting_results.png)
   
 - Shows the R² scores for each model and RMSE
--- 📊 [VIEW ANALYSIS](magazine-subscription-analysis/visuals/)
+-- 📊 [VIEW ANALYSIS](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/6e448ae271c3eba560ed7a9316db107a49532ce7/18_performance_radar.png)
 
 - ### project4-nashville-real-estate
 - 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/f9ba968e5080f950cbbfdb8dd8f326e1d0e05a18/Nasville_Project7.2.ipynb)
