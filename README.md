@@ -81,7 +81,7 @@ git push
 - Shows Random forest Models          - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/b8c7c869b512fadb67c7fadffc6f44cbb4e4cdb5/11_random_forest_results.png)
 - Shows Gradient Boostings            - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/12_gradient_boosting_results.png)
   
-- Shows the R² scores for each model and RMSE
+- Shows the R² scores for each model and RMSE.
 -- 📊 [VIEW ANALYSIS](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/6e448ae271c3eba560ed7a9316db107a49532ce7/18_performance_radar.png)
 
 - ### project4-nashville-real-estate
