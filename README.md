@@ -23,7 +23,7 @@ predictive-analytics-portfolio/
     ├── report.pdf
     └── visualizations/
 
-   # Project 1: Vehicle Fuel Efficiency Prediction
+# Project 1: Vehicle Fuel Efficiency Prediction
 
 ## Overview
 Predictive model to identify fuel-efficient vehicle characteristics...
