@@ -74,7 +74,7 @@ git push
 - 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
-### 4. project4-nashville-real-estate
+### 4. Project Nashville Real Estate
 - Grouped bar chart comparing 4 models (Linear Regression, Decision Tree, Random Forest, Gradient Boosting)
 - Shows Linear Regression Models      - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/07_linear_regression_results.png)
 - Shows Decision Tree Models          - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/09_decision_tree_results.png)
@@ -84,16 +84,16 @@ git push
 - Shows the R² scores for each model and RMSE.
 -- 📊 [VIEW ANALYSIS](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/6e448ae271c3eba560ed7a9316db107a49532ce7/18_performance_radar.png)
 
-- ### project4-nashville-real-estate
+### Project Nashville Real Estate
 - 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/f9ba968e5080f950cbbfdb8dd8f326e1d0e05a18/Nasville_Project7.2.ipynb)
 - Why Gradient Boostings models recommended Analysis ?
 - 📊 [View Analysis](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/b8c7c869b512fadb67c7fadffc6f44cbb4e4cdb5/20_best_model_deep_dive.png)
 
-### 5. project5-handwriting-recognition
+### 5. Project handwriting recognition
 - Radar/spider chart comparing KNN vs. Neural Network across 5 dimensions
 - Visualizes trade-off between accuracy and interpretability
 
-### project5-handwriting-recognition
+### Project handwriting recognition
 - 📄 [Final Report (PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/ad2ad064cb1c40af8ee45ae715fa707feba595ca/Report%20on%20redicting%20Early%20Motor%20Skill%20Challenges%20Through%20Handwriting%20Recognition.pdf)
 - 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/2fd574170b8d097b4f1b710f6c84aef6523117fe/Letters.ipynb)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
