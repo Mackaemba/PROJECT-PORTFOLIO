@@ -71,7 +71,7 @@ git push
 
 ### Magazine Subscription Behavior Analysis
 - 📄 [Final Report (PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/Magazine%20Subscription%20Behavior%20Analysis%20Report.pdf)
-- 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
+- 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/77424362204c59ca005beb275bf93bf2293882f6/marketing.ipynb)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
 ### 4. Project Nashville Real Estate
