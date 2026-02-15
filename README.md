@@ -84,12 +84,9 @@ git push
 - 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
-
 ### 5. project5-handwriting-recognition
-- 
 - Radar/spider chart comparing KNN vs. Neural Network across 5 dimensions
 - Visualizes trade-off between accuracy and interpretability
-
 
 ### project5-handwriting-recognition
 - 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
