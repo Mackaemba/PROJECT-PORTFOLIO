@@ -59,7 +59,7 @@ git push
 - Business use case: automated loan pre-screening
 
 - ### Personal Loan Approval Prediction
-- 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
+- 📄 [Final Report (PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/Predictive%20Analysis%20of%20Personal%20Loan%20Approval%20Using%20Logistic%20Regression.pdf)
 - 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
