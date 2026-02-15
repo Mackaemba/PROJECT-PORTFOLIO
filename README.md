@@ -42,7 +42,7 @@ git add .
 git commit -m "Add predictive analytics portfolio projects"
 git push
 
-### 1. Vehicle Fuel Efficiency Prediction
+## 1. Vehicle Fuel Efficiency Prediction
 - Linear regression with Recursive Feature Elimination
 - R² = 0.82, RMSE = 3.4 MPG
 - Focus on engineering and sustainability impact
@@ -53,18 +53,18 @@ git push
 - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/8f97ef4c47e6cd18abe2773cb2104d70229c33cd/model_performance.png)
 
 
-### 2. Personal Loan Approval Prediction
+## 2. Personal Loan Approval Prediction
 - Logistic Regression classification model
 - Accuracy: 98.73%, ROC-AUC: 0.9924
 - Business use case: automated loan pre-screening
 
-- ### Personal Loan Approval Prediction
+### Personal Loan Approval Prediction
 - 📄 [Final Report (PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/Predictive%20Analysis%20of%20Personal%20Loan%20Approval%20Using%20Logistic%20Regression.pdf)
 - 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/82a49e0837b2c53e58f44fc32fddb6e54569e962/Bank.ipynb)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
 
-### 3. Magazine Subscription Behavior Analysis
+## 3. Magazine Subscription Behavior Analysis
 - Logistic Regression vs. SVM comparison
 - Emphasis on recall and interpretability
 - Marketing targeting optimization
@@ -74,7 +74,7 @@ git push
 - 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/77424362204c59ca005beb275bf93bf2293882f6/marketing.ipynb)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
-### 4. Project Nashville Real Estate
+## 4. Project Nashville Real Estate
 - Grouped bar chart comparing 4 models (Linear Regression, Decision Tree, Random Forest, Gradient Boosting)
 - Shows Linear Regression Models      - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/07_linear_regression_results.png)
 - Shows Decision Tree Models          - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/09_decision_tree_results.png)
@@ -89,7 +89,7 @@ git push
 - Why Gradient Boostings models recommended Analysis ?
 - 📊 [View Analysis](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/b8c7c869b512fadb67c7fadffc6f44cbb4e4cdb5/20_best_model_deep_dive.png)
 
-### 5. Project handwriting recognition
+## 5. Project handwriting recognition
 - Radar/spider chart comparing KNN vs. Neural Network across 5 dimensions.
 - Visualizes trade-off between accuracy and interpretability.
 - 📊 [VIEW ANALYSIS](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/7eb9e4dc78234a87700d17b0c5568ca32afa959b/13_learning_curves.png)
