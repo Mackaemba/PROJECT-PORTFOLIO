@@ -78,7 +78,7 @@ git push
 - Grouped bar chart comparing 4 models (Linear Regression, Decision Tree, Random Forest, Gradient Boosting)
 - Shows Linear Regression Models      - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/07_linear_regression_results.png)
 - Shows Decision Tree Models          - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/09_decision_tree_results.png)
-- Shows Random forest Models          - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
+- Shows Random forest Models          - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/b8c7c869b512fadb67c7fadffc6f44cbb4e4cdb5/11_random_forest_results.png)
 - Shows Gradient Boostings            - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/12_gradient_boosting_results.png)
 - Shows the R² scores for each model  - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 - Shows RMSE                          - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
@@ -86,7 +86,7 @@ git push
 - ### project4-nashville-real-estate
 - 📄 [Final Report (PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/13ac2a548afc684d8febfa7e74188922189e3851/Report%20on%20Predictive%20Modeling%20for%20Nashville%20Real%20Estate%20Investment.pdf)
 - 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/f9ba968e5080f950cbbfdb8dd8f326e1d0e05a18/Nasville_Project7.2.ipynb)
-- 📊 [Visualizations](magazine-subscription-analysis/visuals/)
+- 📊 [View Analysis](magazine-subscription-analysis/visuals/)
 
 ### 5. project5-handwriting-recognition
 - Radar/spider chart comparing KNN vs. Neural Network across 5 dimensions
