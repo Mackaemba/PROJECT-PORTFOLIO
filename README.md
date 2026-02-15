@@ -29,8 +29,8 @@ predictive-analytics-portfolio/
 - Predictive model to identify fuel-efficient vehicle characteristics...
 - Predictive model to identify personal loan approval prediction
 - Predictive model to identify Magazine Subscription Behavior Analysis
-- Predictive model to identify
-- Predictive model to identify
+- Predictive model to identify project4-nashville-real-estate
+- Predictive model to identify project5-handwriting-recognition
 
   
 
@@ -74,23 +74,23 @@ git push
 - 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
-### 4. Personal Loan Approval Prediction
+### 4. project4-nashville-real-estate
 - Logistic Regression classification model
 - Accuracy: 98.73%, ROC-AUC: 0.9924
 - Business use case: automated loan pre-screening
 
-- ### Personal Loan Approval Prediction
+- ### project4-nashville-real-estate
 - 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
 - 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
 
-### 5. Magazine Subscription Behavior Analysis
+### 5. project5-handwriting-recognition
 - Logistic Regression vs. SVM comparison
 - Emphasis on recall and interpretability
 - Marketing targeting optimization
 
-### Magazine Subscription Behavior Analysis
+### project5-handwriting-recognition
 - 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
 - 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
