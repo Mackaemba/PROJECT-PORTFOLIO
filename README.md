@@ -84,7 +84,7 @@ git push
 - Shows the R² scores for each model and RMSE.
 -- 📊 [VIEW ANALYSIS](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/6e448ae271c3eba560ed7a9316db107a49532ce7/18_performance_radar.png)
 
-### Project Nashville Real Estate
+### Project Nashville Real Estate.
 - 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/f9ba968e5080f950cbbfdb8dd8f326e1d0e05a18/Nasville_Project7.2.ipynb)
 ### Why Gradient Boostings models recommended Analysis ?
 - 📊 [View Analysis](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/b8c7c869b512fadb67c7fadffc6f44cbb4e4cdb5/20_best_model_deep_dive.png)
