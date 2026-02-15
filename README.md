@@ -70,7 +70,7 @@ git push
 - Marketing targeting optimization
 
 ### Magazine Subscription Behavior Analysis
-- 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
+- 📄 [Final Report (PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/Magazine%20Subscription%20Behavior%20Analysis%20Report.pdf)
 - 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
