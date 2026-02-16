@@ -81,7 +81,7 @@ git push
 - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/b746094ef32bd7728c6d68843d095311dcf4ff97/numeric_distributions.png)
 
 ## 4. Project Nashville Real Estate
-4A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/REPORT%20ON%20BUILDING%20THE%20CAR%20OF%20THE%20FUTURE.pdf)
+4A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/b07098f0680ab2d4d1db75c50e9460ff348cc903/Real%20Estate%20Company.png)
 - Grouped bar chart comparing 4 models (Linear Regression, Decision Tree, Random Forest, Gradient Boosting)
 - Shows Linear Regression Models      - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/07_linear_regression_results.png)
 - Shows Decision Tree Models          - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/09_decision_tree_results.png)
