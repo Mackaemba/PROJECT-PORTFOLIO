@@ -44,7 +44,8 @@ git push
 
 
 ## 1. Vehicle Fuel Efficiency Prediction
-A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/REPORT%20ON%20BUILDING%20THE%20CAR%20OF%20THE%20FUTURE.pdf)
+1A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/REPORT%20ON%20BUILDING%20THE%20CAR%20OF%20THE%20FUTURE.pdf)
+
 - Linear regression with Recursive Feature Elimination
 - R² = 0.82, RMSE = 3.4 MPG
 - Focus on engineering and sustainability impact.
@@ -56,6 +57,8 @@ A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/
 
 
 ## 2. Personal Loan Approval Prediction
+2A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/REPORT%20ON%20BUILDING%20THE%20CAR%20OF%20THE%20FUTURE.pdf)
+
 - Logistic Regression classification model
 - Accuracy: 98.73%, ROC-AUC: 0.9924
 - Business use case: automated loan pre-screening.
@@ -67,6 +70,7 @@ A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/
 
 
 ## 3. Magazine Subscription Behavior Analysis
+3A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/REPORT%20ON%20BUILDING%20THE%20CAR%20OF%20THE%20FUTURE.pdf)
 - Logistic Regression vs. SVM comparison
 - Emphasis on recall and interpretability
 - Marketing targeting optimization
@@ -77,6 +81,7 @@ A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/
 - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/b746094ef32bd7728c6d68843d095311dcf4ff97/numeric_distributions.png)
 
 ## 4. Project Nashville Real Estate
+4A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/REPORT%20ON%20BUILDING%20THE%20CAR%20OF%20THE%20FUTURE.pdf)
 - Grouped bar chart comparing 4 models (Linear Regression, Decision Tree, Random Forest, Gradient Boosting)
 - Shows Linear Regression Models      - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/07_linear_regression_results.png)
 - Shows Decision Tree Models          - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/4eedc608913247917f2812ddfcb5bf151645688d/09_decision_tree_results.png)
@@ -92,6 +97,7 @@ A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/
 
 
 ## 5. Project handwriting recognition
+5A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/REPORT%20ON%20BUILDING%20THE%20CAR%20OF%20THE%20FUTURE.pdf)
 - Radar/spider chart comparing KNN vs. Neural Network across 5 dimensions.
 - Visualizes trade-off between accuracy and interpretability.
 - 📊 [VIEW ANALYSIS](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/7eb9e4dc78234a87700d17b0c5568ca32afa959b/13_learning_curves.png)
