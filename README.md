@@ -44,7 +44,7 @@ git push
 
 
 ## 1. Vehicle Fuel Efficiency Prediction
-1A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/REPORT%20ON%20BUILDING%20THE%20CAR%20OF%20THE%20FUTURE.pdf)
+1A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/de2689b83375e962c1cfbbfdbb43db0ec0b0109a/A%20DATA-DRIVEN%20APPROACH%20TO%20FUEL%20EFFICIENCY.png)
 
 - Linear regression with Recursive Feature Elimination
 - R² = 0.82, RMSE = 3.4 MPG
