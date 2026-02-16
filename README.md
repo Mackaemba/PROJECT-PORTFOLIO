@@ -104,6 +104,6 @@ Python, pandas, scikit-learn, SQL, data visualization, machine learning
 
 ## Contact
 LinkedIn: https://linkedin.com/in/daniel-mackaemba-b957732a5
-Email: dmackaembas@gmail.com
+Email: dmackaemba@gmail.com
 Phone: +1 (604) 907-4414
 
