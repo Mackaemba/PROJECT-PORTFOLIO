@@ -97,7 +97,7 @@ git push
 
 
 ## 5. Project handwriting recognition
-5A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/dab65a0047ebd4fa4b9bfc04de26d998f4c23348/REPORT%20ON%20BUILDING%20THE%20CAR%20OF%20THE%20FUTURE.pdf)
+5A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/eaa2422b39a7423684506f84926337f3e6530f08/Text%20Classification.png)
 - Radar/spider chart comparing KNN vs. Neural Network across 5 dimensions.
 - Visualizes trade-off between accuracy and interpretability.
 - 📊 [VIEW ANALYSIS](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/7eb9e4dc78234a87700d17b0c5568ca32afa959b/13_learning_curves.png)
