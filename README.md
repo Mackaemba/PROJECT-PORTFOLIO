@@ -43,6 +43,7 @@ git commit -m "Add predictive analytics portfolio projects"
 git push
 
 ## 1. Vehicle Fuel Efficiency Prediction
+### - 📄 [Final Report (PDF)](https://github.com/Mackaemba/predictive-analytics-portfolio-
 - Linear regression with Recursive Feature Elimination
 - R² = 0.82, RMSE = 3.4 MPG
 - Focus on engineering and sustainability impact.
