@@ -99,4 +99,11 @@ git push
 - 📓 [Python Script](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/2fd574170b8d097b4f1b710f6c84aef6523117fe/Letters.ipynb)
 - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/b0007d9a1015e0c0d9e26ad275f80097887341bd/02_class_distribution_enhanced.png)
 
+## Tools & Skills
+Python, pandas, scikit-learn, SQL, data visualization, machine learning
+
+## Contact
+LinkedIn: https://linkedin.com/in/daniel-mackaemba-b957732a5
+Email: mackaembaxs@gmail.com
+Phone: +1 (604) 907-4414
 
