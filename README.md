@@ -56,7 +56,7 @@ git push
 - 📊 [Visualizations](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/8f97ef4c47e6cd18abe2773cb2104d70229c33cd/model_performance.png)
 
 
-## 2. Personal Loan Approval Prediction
+## 2. Personal Loan Approval Prediction.
 2A. 📄 [Problem Statement(PDF)](https://github.com/Mackaemba/PROJECT-PORTFOLIO/blob/beb0ccb1ff2fc8512d8de87bc0bc748e1e57953d/Bank%20Person%20Mdelling.png)
 
 - Logistic Regression classification model
